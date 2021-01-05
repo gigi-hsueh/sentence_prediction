@@ -1,0 +1,48 @@
+----------	
+PROCESSING: 	/gfsai-oregon/ai-group/datasets/books/CBTest/memnn/cbtest_V_train.txt	
+----------	
+# of examples (all / distinct):	105825	103046	
+# of words in stories (min, mean, max) :	86	451.56450744153	1344	
+# of words in questions (min, mean, max):	2	28.026279234585	224	
+Vocabulary size:	51649	
+# of distinct candidates:	10051	
+# of ex with cand missing from story+q (#, prop):	3	2.834868887314e-05	
+# of ex with answer missing from story+q (#, prop):	0	0	
+----------	
+----------	
+PROCESSING: 	/gfsai-oregon/ai-group/datasets/books/CBTest/memnn/cbtest_V_valid_2000ex.txt	
+----------	
+# of examples (all / distinct):	2000	1997	
+# of words in stories (min, mean, max) :	192	432.0825	809	
+# of words in questions (min, mean, max):	3	26.6975	119	
+Vocabulary size:	9467	
+# of distinct candidates:	2068	
+# of ex with cand missing from story+q (#, prop):	0	0	
+# of ex with answer missing from story+q (#, prop):	0	0	
+----------	
+Comparison with:	/gfsai-oregon/ai-group/datasets/books/CBTest/memnn/cbtest_V_train.txt	
+----------	
+Additional words (#, prop):	575	0.060737297982465	
+Additional cands (#, prop):	67	0.032398452611219	
+Identical questions (#, prop):	22	0.011	
+----------	
+----------	
+PROCESSING: 	/gfsai-oregon/ai-group/datasets/books/CBTest/memnn/cbtest_V_test_2500ex.txt	
+----------	
+# of examples (all / distinct):	2500	2472	
+# of words in stories (min, mean, max) :	140	440.1932	979	
+# of words in questions (min, mean, max):	2	27.5312	164	
+Vocabulary size:	11749	
+# of distinct candidates:	2463	
+# of ex with cand missing from story+q (#, prop):	0	0	
+# of ex with answer missing from story+q (#, prop):	0	0	
+----------	
+Comparison with:	/gfsai-oregon/ai-group/datasets/books/CBTest/memnn/cbtest_V_train.txt	
+----------	
+Additional words (#, prop):	1024	0.087156353732233	
+Additional cands (#, prop):	81	0.032886723507917	
+Identical questions (#, prop):	51	0.0204	
+----------	
+----------	
+Total voc size:	53234	
+----------	

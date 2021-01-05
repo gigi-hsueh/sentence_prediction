@@ -1,0 +1,48 @@
+----------	
+PROCESSING: 	/tmp/cbt_all_train.txt	
+----------	
+# of examples (all / distinct):	669343	655284	
+# of words in stories (min, mean, max) :	72	465.31337296424	1367	
+# of words in questions (min, mean, max):	2	31.096122615759	251	
+Vocabulary size:	51914	
+# of distinct candidates:	37242	
+# of ex with cand missing from story+q (#, prop):	15	2.2410034914834e-05	
+# of ex with answer missing from story+q (#, prop):	0	0	
+----------	
+----------	
+PROCESSING: 	/tmp/cbt_all_valid.txt	
+----------	
+# of examples (all / distinct):	8000	7975	
+# of words in stories (min, mean, max) :	182	435.427125	809	
+# of words in questions (min, mean, max):	2	27.621625	119	
+Vocabulary size:	9893	
+# of distinct candidates:	5485	
+# of ex with cand missing from story+q (#, prop):	0	0	
+# of ex with answer missing from story+q (#, prop):	0	0	
+----------	
+Comparison with:	/tmp/cbt_all_train.txt	
+----------	
+Additional words (#, prop):	610	0.061659759425857	
+Additional cands (#, prop):	420	0.076572470373747	
+Identical questions (#, prop):	83	0.010375	
+----------	
+----------	
+PROCESSING: 	/tmp/cbt_all_test.txt	
+----------	
+# of examples (all / distinct):	10000	9959	
+# of words in stories (min, mean, max) :	134	445.1864	1024	
+# of words in questions (min, mean, max):	2	29.2788	202	
+Vocabulary size:	12396	
+# of distinct candidates:	7108	
+# of ex with cand missing from story+q (#, prop):	4	0.0004	
+# of ex with answer missing from story+q (#, prop):	0	0	
+----------	
+Comparison with:	/tmp/cbt_all_train.txt	
+----------	
+Additional words (#, prop):	1119	0.09027105517909	
+Additional cands (#, prop):	756	0.10635903207653	
+Identical questions (#, prop):	103	0.0103	
+----------	
+----------	
+Total voc size:	53628	
+----------	
